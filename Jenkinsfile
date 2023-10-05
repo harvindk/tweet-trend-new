@@ -1,6 +1,6 @@
 def registry = 'https://hdevopz.jfrog.io'
 def imageName = 'hdevopz.jfrog.io/hdevopz-docker-local/ttrend'
-def version   = '2.1.2'
+def version   = '2.1.3'
 pipeline {
     agent {
         node {
